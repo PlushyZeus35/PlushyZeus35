@@ -1,4 +1,12 @@
-Hi There!!
+
+## ¡Hola! Soy Borja Lorenzo Adajas
+Estudiante de Ingeniería Informática apasionado de la programación y desarrollo IT.
+
+### ¿Donde puedes encontrarme?
+ + [Mi Web](http://www.plushyzeus.com)
+ + [Instagram](https://www.instagram.com/plushyzeus35/)
+ + Email: borjalorenzoadajas@usal.es
+ + 
 
 
 <!--- 👋 Hi, I’m @PlushyZeus35
@@ -7,7 +15,4 @@ Hi There!!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
-<!---
-PlushyZeus35/PlushyZeus35 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
