@@ -3,10 +3,8 @@
 Estudiante de Ingeniería Informática apasionado de la programación y desarrollo IT.
 
 ### ¿Donde puedes encontrarme?
- + [Mi Web](http://www.plushyzeus.com)
  + [Instagram](https://www.instagram.com/plushyzeus35/)
  + Email: borjalorenzoadajas@usal.es
- + 
 
 
 <!--- 👋 Hi, I’m @PlushyZeus35
